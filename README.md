@@ -1,123 +1,109 @@
-# Hi 👋 I'm Yuvan R
+# 👨‍💻 Yuvan R
 
-🚀 **Full-Stack Developer | MERN Stack | Generative AI Enthusiast | DSA Practitioner**
+```text
+Building scalable web applications, real-time systems, and AI-powered developer tools.
+```
 
-I’m a B.Tech CSE student passionate about building **scalable web applications, real-time systems, and AI-powered developer tools**. I enjoy solving complex problems, learning new technologies, and turning ideas into production-ready software.
+💡 **Full-Stack Developer • MERN Stack Engineer • Generative AI Explorer**
 
----
+I’m a Computer Science student who enjoys **turning ideas into real-world software**.
+My focus is building **production-ready web platforms, intelligent AI tools, and scalable backend systems**.
 
-# 💻 Tech Stack
-
-### Languages
-
-* JavaScript
-* Java
-* Python
-* C / C++
-
-### Frontend
-
-* HTML5
-* CSS3
-* React
-* JavaScript (ES6+)
-
-### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-* Authentication (JWT)
-
-### Databases
-
-* MongoDB
-* MySQL
-* Mongoose
-
-### Real-Time & Cloud
-
-* Socket.io
-* Firebase
-
-### DevOps & Tools
-
-* Docker
-* Git
-* GitHub
-* Postman
-* VS Code
-
-### AI / Generative AI
-
-* Gemini AI
-* Prompt Engineering
-* AI-powered applications
-* Resume analysis systems
+I believe great software sits at the intersection of **clean architecture, problem solving, and creativity**.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 What I Do
+
+⚡ Build **full-stack applications** using modern web technologies
+🧠 Explore **Generative AI and intelligent developer tools**
+📡 Develop **real-time applications and scalable APIs**
+🧩 Solve algorithmic problems to sharpen **DSA & system thinking**
+
+---
+
+# 🧰 Tech Arsenal
+
+### 💻 Languages
+
+JavaScript • Java • Python • C • C++
+
+### 🎨 Frontend
+
+React • HTML5 • CSS3 • Modern JavaScript
+
+### ⚙️ Backend
+
+Node.js • Express.js • REST APIs • Authentication
+
+### 🗄 Databases
+
+MongoDB • MySQL • Mongoose
+
+### ☁️ Real-Time & Cloud
+
+Socket.io • Firebase
+
+### 🤖 AI / GenAI
+
+Gemini AI • Prompt Engineering • AI-powered Applications
+
+### 🔧 Tools
+
+Git • GitHub • Docker • Postman • VS Code
+
+---
+
+# 🔥 Projects I Built
 
 ### 🧠 AI Resume Analyzer
 
-AI-powered platform that analyzes resumes against job descriptions, detects skill gaps, generates interview questions, and creates ATS-friendly resumes.
+An AI-powered career assistant that analyzes resumes against job descriptions, detects skill gaps, generates interview questions, and produces ATS-friendly resumes.
 
-**Tech Stack:**
-React • Node.js • Express • MongoDB • Gemini AI • Puppeteer
+**Stack:** React • Node.js • MongoDB • Gemini AI
 
 ---
 
 ### 🏡 NobleNest
 
-Full-stack Airbnb-style rental platform where users can discover, list, and manage property listings.
+A full-stack Airbnb-style rental platform where users can discover, list, and manage property listings.
 
-**Tech Stack:**
-Node.js • Express • MongoDB • EJS • REST APIs
+**Stack:** Node.js • Express • MongoDB • EJS
 
-Live Demo:
-https://noblenest-6qwf.onrender.com
+🌐 https://noblenest-6qwf.onrender.com
 
 ---
 
 ### 💬 WhatsApp Clone
 
-Real-time messaging application with chat rooms, live message updates, and user presence.
+Real-time messaging platform supporting live chat, chat rooms, and user presence indicators.
 
-**Tech Stack:**
-React • Node.js • Socket.io • MongoDB
+**Stack:** React • Node.js • Socket.io • MongoDB
 
 ---
 
 ### ▶️ YouTube Clone
 
-Video platform supporting playback, comments, likes, and subscriptions.
+A video streaming platform with playback, comments, likes, and subscriptions.
 
-**Tech Stack:**
-React • Node.js • Express • MongoDB • Firebase
+**Stack:** React • Node.js • Express • MongoDB • Firebase
 
 ---
 
 # 🏆 Achievements
 
-🏆 **CodeRed24 Hackathon** – Top 50 Finalist
-🎓 **CGPA: 9.65 / 10** – BMS Institute of Technology
+🏆 **CodeRed24 Hackathon Finalist (Top 50)**
+🎓 **CGPA: 9.65 / 10 — BMS Institute of Technology**
 
 ---
 
-# 📈 GitHub Stats
+# 📬 Let's Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YUVAN-cse\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YUVAN-cse\&layout=compact\&theme=tokyonight)
-
----
-
-# 📫 Connect With Me
-
-* GitHub: https://github.com/YUVAN-cse
-* LinkedIn: www.linkedin.com/in/yuvan-r-92356732a
+💼 LinkedIn – www.linkedin.com/in/yuvan-r-92356732a
+💻 GitHub – https://github.com/YUVAN-cse
 
 ---
 
-⭐ *Always building. Always learning.*
+```text
+Always learning. Always building. 🚀
+```
