@@ -97,7 +97,7 @@ A video streaming platform with playback, comments, likes, and subscriptions.
 
 ---
 
-# 📬 Let's Connect
+# 📬 Let's Connect to woek together
 
 💼 LinkedIn – www.linkedin.com/in/yuvan-r-92356732a
 💻 GitHub – https://github.com/YUVAN-cse
