@@ -74,7 +74,7 @@ A full-stack Airbnb-style rental platform where users can discover, list, and ma
 
 ---
 
-### 💬 WhatsApp Clone
+### 💬 Real-Time-Chat-Application
 
 Real-time messaging platform supporting live chat, chat rooms, and user presence indicators.
 
@@ -82,7 +82,7 @@ Real-time messaging platform supporting live chat, chat rooms, and user presence
 
 ---
 
-### ▶️ YouTube Clone
+### ▶️ StreamVault 
 
 A video streaming platform with playback, comments, likes, and subscriptions.
 
