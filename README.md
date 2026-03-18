@@ -103,7 +103,7 @@ A video streaming platform with playback, comments, likes, and subscriptions.
 💻 GitHub – https://github.com/YUVAN-cse
 
 ---
-
+![Profile views](https://komarev.com/ghpvc/?username=YUVAN-cse&color=blue)
 ```text
 Always learning. Always building. 🚀
 ```
