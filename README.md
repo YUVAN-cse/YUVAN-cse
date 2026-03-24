@@ -13,7 +13,7 @@ I believe great software sits at the intersection of **clean architecture, probl
 
 ---
 
-# 🚀 What I Do
+#  What I Do
 
 ⚡ Build **full-stack applications** using modern web technologies
 🧠 Explore **Generative AI and intelligent developer tools**
