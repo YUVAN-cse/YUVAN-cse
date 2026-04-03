@@ -108,11 +108,8 @@ Git • GitHub • Docker • Postman • VS Code
 
 ---
 
-# 📬 Connect
-
-GitHub → https://github.com/YUVAN-cse
-LinkedIn → [www.linkedin.com/in/yuvan-r-92356732a](http://www.linkedin.com/in/yuvan-r-92356732a)
-Portfolio → https://yuvan-r-portfolio.netlify.app/
+📬 Connect → GitHub | LinkedIn | Portfolio  
+https://github.com/YUVAN-cse | https://www.linkedin.com/in/yuvan-r-92356732a | https://yuvan-r-portfolio.netlify.app/
 
 ---
 
