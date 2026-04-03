@@ -99,8 +99,9 @@ A video streaming platform with playback, comments, likes, and subscriptions.
 
 # 📬 Let's Connect to woek together
 
-💻 GitHub – https://github.com/YUVAN-cse
-💼 LinkedIn – www.linkedin.com/in/yuvan-r-92356732a
+  GitHub – https://github.com/YUVAN-cse
+  LinkedIn – www.linkedin.com/in/yuvan-r-92356732a
+  Portfolio - https://yuvan-r-portfolio.netlify.app/
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=YUVAN-cse&color=blue)
