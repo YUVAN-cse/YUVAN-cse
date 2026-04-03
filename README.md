@@ -1,28 +1,31 @@
 # 👨‍💻 Yuvan R
 
 ```text
-Building scalable web applications, real-time systems, and AI-powered developer tools.
+Full-Stack Engineer building scalable systems, real-time applications, and AI-powered tools.
 ```
 
-💡 **Full-Stack Developer • MERN Stack Engineer • Generative AI Explorer**
+💡 **MERN Stack Developer • Backend-Focused Engineer • Generative AI Builder**
 
-I’m a Computer Science student who enjoys **turning ideas into real-world software**.
-My focus is building **production-ready web platforms, intelligent AI tools, and scalable backend systems**.
+I design and build **production-grade applications** with a focus on **scalability, performance, and real-world usability**.
 
-I believe great software sits at the intersection of **clean architecture, problem solving, and creativity**.
+I’m particularly interested in:
 
----
-
-#  What I Do
-
-⚡ Build **full-stack applications** using modern web technologies
-🧠 Explore **Generative AI and intelligent developer tools**
-📡 Develop **real-time applications and scalable APIs**
-🧩 Solve algorithmic problems to sharpen **DSA & system thinking**
+* **Backend architecture & system design**
+* **Real-time systems (WebSockets, event-driven apps)**
+* **AI-powered developer tools**
 
 ---
 
-# 🧰 Tech Arsenal
+# 🚀 What I Do
+
+⚡ Build **end-to-end scalable applications** (frontend → backend → deployment)
+🧠 Develop **AI-powered tools using LLMs (Gemini API)**
+📡 Engineer **real-time systems using WebSockets & event-based architecture**
+🧩 Practice **DSA & problem-solving for strong system thinking**
+
+---
+
+# 🧰 Tech Stack
 
 ### 💻 Languages
 
@@ -30,11 +33,11 @@ JavaScript • Java • Python • C • C++
 
 ### 🎨 Frontend
 
-React • HTML5 • CSS3 • Modern JavaScript
+React • HTML5 • CSS3 • Modern JS (ES6+)
 
 ### ⚙️ Backend
 
-Node.js • Express.js • REST APIs • Authentication
+Node.js • Express.js • REST APIs • Authentication & Authorization
 
 ### 🗄 Databases
 
@@ -46,7 +49,7 @@ Socket.io • Firebase
 
 ### 🤖 AI / GenAI
 
-Gemini AI • Prompt Engineering • AI-powered Applications
+Gemini API • Prompt Engineering • AI Integrations
 
 ### 🔧 Tools
 
@@ -54,37 +57,45 @@ Git • GitHub • Docker • Postman • VS Code
 
 ---
 
-# 🔥 Projects I Built
+# 🔥 Featured Projects
 
 ### 🧠 AI Resume Analyzer
 
-An AI-powered career assistant that analyzes resumes against job descriptions, detects skill gaps, generates interview questions, and produces ATS-friendly resumes.
+* Built an AI system that **analyzes resumes vs job descriptions**
+* Detects **skill gaps and generates interview questions**
+* Generates **ATS-optimized resumes using LLMs**
+* Designed backend to handle **dynamic prompt pipelines**
 
-**Stack:** React • Node.js • MongoDB • Gemini AI
+**Stack:** React • Node.js • MongoDB • Gemini API
 
 ---
 
-### 🏡 NobleNest
+### 🏡 NobleNest (Airbnb Clone)
 
-A full-stack Airbnb-style rental platform where users can discover, list, and manage property listings.
-
-**Stack:** Node.js • Express • MongoDB • EJS
+* Developed a **full-stack rental platform**
+* Implemented **authentication, listing management, and search**
+* Structured backend with **RESTful APIs and modular architecture**
 
 🌐 https://noblenest-6qwf.onrender.com
+**Stack:** Node.js • Express • MongoDB • EJS
 
 ---
 
-### 💬 Real-Time-Chat-Application
+### 💬 Real-Time Chat Application
 
-Real-time messaging platform supporting live chat, chat rooms, and user presence indicators.
+* Built a **low-latency chat system using WebSockets**
+* Supports **live messaging, rooms, and user presence**
+* Designed for **real-time scalability**
 
 **Stack:** React • Node.js • Socket.io • MongoDB
 
 ---
 
-### ▶️ StreamVault 
+### ▶️ StreamVault (Video Platform)
 
-A video streaming platform with playback, comments, likes, and subscriptions.
+* Implemented **video streaming features with user engagement**
+* Features: **comments, likes, subscriptions**
+* Integrated **Firebase for storage & scalability**
 
 **Stack:** React • Node.js • Express • MongoDB • Firebase
 
@@ -92,19 +103,19 @@ A video streaming platform with playback, comments, likes, and subscriptions.
 
 # 🏆 Achievements
 
-🏆 **CodeRed24 Hackathon Finalist (Top 50)**
-🎓 **CGPA: 9.65 / 10 — BMS Institute of Technology**
+🏆 CodeRed24 Hackathon Finalist (Top 50)
+🎓 CGPA: 9.65 / 10 — BMS Institute of Technology
 
 ---
 
-# 📬 Let's Connect to woek together
+# 📬 Connect
 
-  GitHub – https://github.com/YUVAN-cse
-  LinkedIn – www.linkedin.com/in/yuvan-r-92356732a
-  Portfolio - https://yuvan-r-portfolio.netlify.app/
+GitHub → https://github.com/YUVAN-cse
+LinkedIn → [www.linkedin.com/in/yuvan-r-92356732a](http://www.linkedin.com/in/yuvan-r-92356732a)
+Portfolio → https://yuvan-r-portfolio.netlify.app/
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=YUVAN-cse&color=blue)
+
 ```text
-Always learning. Always building. 🚀
+Building systems. Solving problems. Scaling ideas. 🚀
 ```
