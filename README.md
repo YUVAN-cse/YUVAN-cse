@@ -1,4 +1,4 @@
-# 👨‍💻 Yuvan R
+# 👨‍💻 YUVAN R
 
 ```text
 Full-Stack Engineer building scalable systems, real-time applications, and AI-powered tools.
