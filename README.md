@@ -29,11 +29,11 @@ I’m particularly interested in:
 
 ### 💻 Languages
 
-JavaScript • Java • Python • C • C++
+JavaScript • Java • Python • C • C++ • TypeScript
 
 ### 🎨 Frontend
 
-React • HTML5 • CSS3 • Modern JS (ES6+)
+React • HTML5 • CSS3 • Modern JS (ES6+) • Next
 
 ### ⚙️ Backend
 
@@ -45,7 +45,7 @@ MongoDB • MySQL • Mongoose
 
 ### ☁️ Real-Time & Cloud
 
-Socket.io • Firebase
+Socket.io • Firebase • WebSockets • WEBRTC
 
 ### 🤖 AI / GenAI
 
