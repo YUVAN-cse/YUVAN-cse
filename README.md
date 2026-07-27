@@ -19,7 +19,7 @@ I’m particularly interested in:
 # 🚀 What I Do
 
 ⚡ Build **end-to-end scalable applications** (frontend → backend → deployment)
-🧠 Develop **AI-powered tools using LLMs (Gemini API)**
+🧠 Develop **AI-powered tools using LLMs **
 📡 Engineer **real-time systems using WebSockets & event-based architecture**
 🧩 Practice **DSA & problem-solving for strong system thinking**
 
@@ -95,7 +95,7 @@ Git • GitHub • Docker • Postman • VS Code
 
 * Implemented **video streaming features with user engagement**
 * Features: **comments, likes, subscriptions**
-* Integrated **Firebase for storage & scalability**
+* Integrated **Cloudinary for storage & scalability**
 
 **Stack:** React • Node.js • Express • MongoDB • Firebase
 
@@ -104,7 +104,7 @@ Git • GitHub • Docker • Postman • VS Code
 # 🏆 Achievements
 
 🏆 CodeRed24 Hackathon Finalist (Top 50)
-🎓 CGPA: 9.65 / 10 — BMS Institute of Technology
+🎓 CGPA: 9.64 / 10 — BMS Institute of Technology
 
 ---
 
