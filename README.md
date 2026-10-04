@@ -53,7 +53,7 @@ Gemini API • Prompt Engineering • AI Integrations
 
 ### 🔧 Tools
 
-Git • GitHub • Docker • Postman • VS Code
+Git • GitHub • Docker • Postman • VS Code • Pandas • Numpy • MatPlotLib
 
 ---
 
