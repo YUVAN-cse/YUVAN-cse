@@ -113,6 +113,8 @@ https://github.com/YUVAN-cse | https://www.linkedin.com/in/yuvan-r-92356732a | h
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=YUVAN-cse&color=blueviolet&style=for-the-badge)
+
 ```text
 Building systems. Solving problems. Scaling ideas. 🚀
 ```
